@@ -1,0 +1,29 @@
+
+
+@font-face {
+  font-family: 'Grotesk';
+  src: 
+  local('Grotesk'),
+    url(../assets/fonts/foundersGroteskCondSmBd.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Queens';
+  src: 
+  local('Queens'),
+    url(../assets/fonts/queensLight.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'QueensItalic';
+  src: 
+  local('QueensItalic'),
+    url(../assets/fonts/queensLightItalic.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: 
+  local('Inter'),
+    url(../assets/fonts/inter.woff) format('woff');
+}
